@@ -14,9 +14,10 @@ This repository has places to eat for the following cities:
 * [Newport Beach, CA](/locations/Newport Beach)
 * [Orlando, FL](/locations/Orlando)
 * [Seattle, WA](/locations/Seattle)
+* [South Brunswick, NJ](/locations/South Brunswick)
 * [The Woodlands, TX](/locations/The Woodlands)
 * [Vernon Hills, IL](/locations/Vernon Hills)
-* [South Brunswick, NJ](/locations/South Brunswick)
+
 ## Contributing
 
 If you would like to add a place to eat, please ensure you follow the following instructions.
