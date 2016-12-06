@@ -16,7 +16,7 @@ This repository has places to eat for the following cities:
 * [Seattle, WA](/locations/Seattle)
 * [The Woodlands, TX](/locations/The Woodlands)
 * [Vernon Hills, IL](/locations/Vernon Hills)
-
+* [South Brunswick, NJ](/locations/South Brunswick)
 ## Contributing
 
 If you would like to add a place to eat, please ensure you follow the following instructions.
